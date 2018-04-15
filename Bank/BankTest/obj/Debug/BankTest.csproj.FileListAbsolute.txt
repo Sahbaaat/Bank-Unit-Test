@@ -1,0 +1,18 @@
+c:\Users\ICC\documents\visual studio 2015\Projects\Bank\BankTest\bin\Debug\BankTest.dll
+c:\Users\ICC\documents\visual studio 2015\Projects\Bank\BankTest\bin\Debug\BankTest.pdb
+c:\Users\ICC\documents\visual studio 2015\Projects\Bank\BankTest\bin\Debug\Bank.dll
+c:\Users\ICC\documents\visual studio 2015\Projects\Bank\BankTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Users\ICC\documents\visual studio 2015\Projects\Bank\BankTest\bin\Debug\Bank.pdb
+c:\Users\ICC\documents\visual studio 2015\Projects\Bank\BankTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\Users\ICC\documents\visual studio 2015\Projects\Bank\BankTest\obj\Debug\BankTest.csprojResolveAssemblyReference.cache
+c:\Users\ICC\documents\visual studio 2015\Projects\Bank\BankTest\obj\Debug\BankTest.dll
+c:\Users\ICC\documents\visual studio 2015\Projects\Bank\BankTest\obj\Debug\BankTest.pdb
+E:\university\narm2\excercises\Bank\BankTest\bin\Debug\BankTest.dll
+E:\university\narm2\excercises\Bank\BankTest\bin\Debug\BankTest.pdb
+E:\university\narm2\excercises\Bank\BankTest\bin\Debug\Bank.dll
+E:\university\narm2\excercises\Bank\BankTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\university\narm2\excercises\Bank\BankTest\bin\Debug\Bank.pdb
+E:\university\narm2\excercises\Bank\BankTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+E:\university\narm2\excercises\Bank\BankTest\obj\Debug\BankTest.csprojResolveAssemblyReference.cache
+E:\university\narm2\excercises\Bank\BankTest\obj\Debug\BankTest.dll
+E:\university\narm2\excercises\Bank\BankTest\obj\Debug\BankTest.pdb

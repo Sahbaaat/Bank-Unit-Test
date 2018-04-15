@@ -1,0 +1,10 @@
+c:\users\icc\documents\visual studio 2015\Projects\Bank\Bank\bin\Debug\Bank.dll
+c:\users\icc\documents\visual studio 2015\Projects\Bank\Bank\bin\Debug\Bank.pdb
+c:\users\icc\documents\visual studio 2015\Projects\Bank\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+c:\users\icc\documents\visual studio 2015\Projects\Bank\Bank\obj\Debug\Bank.dll
+c:\users\icc\documents\visual studio 2015\Projects\Bank\Bank\obj\Debug\Bank.pdb
+E:\university\narm2\excercises\Bank\Bank\bin\Debug\Bank.dll
+E:\university\narm2\excercises\Bank\Bank\bin\Debug\Bank.pdb
+E:\university\narm2\excercises\Bank\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+E:\university\narm2\excercises\Bank\Bank\obj\Debug\Bank.dll
+E:\university\narm2\excercises\Bank\Bank\obj\Debug\Bank.pdb
